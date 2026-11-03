@@ -1,0 +1,13 @@
+{
+    "version":  "1.5.61",
+    "zip":  "SNOW-Widget_version1.5.61.zip",
+    "sha256":  "60C6AABF2CF3ECB54E56B4A1046C07C556E831730C48707F414B8A4E8929E306",
+    "sig":  "IDw2fbut3/4C2K96jspKSJ1/eiEGIjmbCFoEzwiM4chw4xsByeJdIO1mqwlrq+k61hFqceT5JRndQ36PxEv6thSzb56hG6vtUIcWEPkC0seFLJI3RBEuv2L+A8IPUMNLkobP7UQfZsy3TwaUdvoXkUFE2f4U997SNCiJe4hRIaZyNymq7QhXbMhDhWJS+uPnkIQV8W7DvZoy+gV7J8MrxJ7avXvdVunobhcZCHGIGall7o9+VpDuueH8FWwhctgdkP2mhlZoQT0zW2iGcXZytuPL1Rt1cVWkPKWgLqNCi+/VMwyzLvzHAkW94B9ulcNV+Ta0zO8swf1SFyJdF8GcX7lcCwNZ8poINEKuNWt4Nthh4U5FsLTU0D+FgCNfsWi0/QMnJHwYb434XuIEyupgxHMbLMeyF5uYYmzMAV7HUC5Zrkz+4bg10BORT/tSXbHSP8TZGQiTcrcaAa9Jh/nCg3m4XX6nTWtbOfmOmS5jbufndkaewQ+r50zGkJhvFAqx",
+    "msig":  "Ige9E3oO1UjPPiRpON+rr8YhfDatMsw5W9+16IbHVBAOpNIPxFhmm7Q5cDnR7exmouqDPihcX7OezxHeF4gshD7VHW79by0grb/5HrSvNwYW369sUWrofB/KusFeNeRYoLADPYj0YydnUmx1zW6Pydsoc68Ky+z9ZlgVoQoAo/7ec+l/oHDZe6w/KwZg2pxHjCilWhdOjBge+uk/uf2FGxsnJVRv5j/Hu6fqABCbbFfU+9lCdrVm6S9Wjk8EH/3vwsVSp8mTX1kP99CcTVI22dhWL9p4xGaE6XiZYCStHItufXTdz0MeYDI1SWwQ1mp40/bcqVEhK/A2BkoeeA6XEn4ULOEFqHyvySJ/8SojYxPNONTyj0s6CSj0LcRlYHI0qCBdeBRKuQP3joChm0gnFjASxU0ba0+UkNokA9zgctgWK5bKaCJmaJ6zu0UJL+8d4yPvG0BeAtuD4RzpY4MlbwDaQdyy2sVxgozBqtSz7lkAtb5likdP7q0vEMDQf95b",
+    "date":  "2026-11-03",
+    "notes":  [
+                  "Nouveau mode de distribution : un seul fichier, \u0027SNOW Widget.cmd\u0027, a poser sur SharePoint. Il installe la derniere version, cree les raccourcis \u0027SNOW Widget\u0027 (Menu Demarrer et Bureau) et lance l\u0027application.",
+                  "Mises a jour signees : chaque version est desormais authentifiee par une signature de l\u0027editeur, verifiee avant toute installation. Le telechargement passe par GitHub, avec repli sur le dossier SharePoint.",
+                  "Securite renforcee : navigation limitee a ServiceNow et au SSO SNCF, outils de developpement desactives, exports Excel et CSV proteges contre les formules piegees, journal sans noms ni CP, noms avec apostrophe acceptes dans les recherches."
+              ]
+}
