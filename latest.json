@@ -1,13 +1,11 @@
 {
-    "version":  "1.5.61",
-    "zip":  "SNOW-Widget_version1.5.61.zip",
-    "sha256":  "60C6AABF2CF3ECB54E56B4A1046C07C556E831730C48707F414B8A4E8929E306",
-    "sig":  "IDw2fbut3/4C2K96jspKSJ1/eiEGIjmbCFoEzwiM4chw4xsByeJdIO1mqwlrq+k61hFqceT5JRndQ36PxEv6thSzb56hG6vtUIcWEPkC0seFLJI3RBEuv2L+A8IPUMNLkobP7UQfZsy3TwaUdvoXkUFE2f4U997SNCiJe4hRIaZyNymq7QhXbMhDhWJS+uPnkIQV8W7DvZoy+gV7J8MrxJ7avXvdVunobhcZCHGIGall7o9+VpDuueH8FWwhctgdkP2mhlZoQT0zW2iGcXZytuPL1Rt1cVWkPKWgLqNCi+/VMwyzLvzHAkW94B9ulcNV+Ta0zO8swf1SFyJdF8GcX7lcCwNZ8poINEKuNWt4Nthh4U5FsLTU0D+FgCNfsWi0/QMnJHwYb434XuIEyupgxHMbLMeyF5uYYmzMAV7HUC5Zrkz+4bg10BORT/tSXbHSP8TZGQiTcrcaAa9Jh/nCg3m4XX6nTWtbOfmOmS5jbufndkaewQ+r50zGkJhvFAqx",
-    "msig":  "Ige9E3oO1UjPPiRpON+rr8YhfDatMsw5W9+16IbHVBAOpNIPxFhmm7Q5cDnR7exmouqDPihcX7OezxHeF4gshD7VHW79by0grb/5HrSvNwYW369sUWrofB/KusFeNeRYoLADPYj0YydnUmx1zW6Pydsoc68Ky+z9ZlgVoQoAo/7ec+l/oHDZe6w/KwZg2pxHjCilWhdOjBge+uk/uf2FGxsnJVRv5j/Hu6fqABCbbFfU+9lCdrVm6S9Wjk8EH/3vwsVSp8mTX1kP99CcTVI22dhWL9p4xGaE6XiZYCStHItufXTdz0MeYDI1SWwQ1mp40/bcqVEhK/A2BkoeeA6XEn4ULOEFqHyvySJ/8SojYxPNONTyj0s6CSj0LcRlYHI0qCBdeBRKuQP3joChm0gnFjASxU0ba0+UkNokA9zgctgWK5bKaCJmaJ6zu0UJL+8d4yPvG0BeAtuD4RzpY4MlbwDaQdyy2sVxgozBqtSz7lkAtb5likdP7q0vEMDQf95b",
+    "version":  "1.5.62",
+    "zip":  "SNOW-Widget_version1.5.62.zip",
+    "sha256":  "97D023D56884F1699AE90EAF82CB505F0CF4EE301174FB7F96F994223AFA7DDF",
+    "sig":  "MIGKyf4h8pe4cggcv89Si/9sebwlKVT0ArMdbIbHivdBEZFqb73kxKGg+blXZweJVth831ZXAluKr5iybMytwUSbOXyRFC0fef+raAnZAGFPpAYjjxUGUvTHWb4q/sNAbC30diKDOLCTGtmmb9rx1NxyR+Vh6n3gBxzNnqcrsl1lkkyaCMGRoeDyMeL7Kxxby2xHla4oWerwKF3ZIlb0LcIiCn19cUzfeCij0dKvMln0LIF9JlIgGGKOWpwfooqahaoLYOc2EkH91OX91r5Mxwp4Fy/0TJHY0NQAa7TNkH/+93Zv3gPY/F/Mo2rKZCKWqlJ84apfpZiAMDW3n2qPsmpBDBNdK+ji7AZRBFmeYQGcrW0SavBaUrrj4HCUjWWextV4S7r6Bkso5yd52d4PhCs1kKoM6YTGyHBlbEe9GUq9Th/O3EZJLs9zJ2JR4ZzhVe4ym4z6HvUmtXNvreE256tMESGJnVwSsZiUhHJKNH1cVf7yOH89sus7TYd38Py8",
+    "msig":  "Hg3q3nKBSvYbEq6EpHwVi7c6hmvZAKNA9JihqRGLWRdK6HHNVhL2NG8zs2Ul88uttXzJzHNIYXNNspMFN3p03V+5UIhhpN2ii7F+1hgweTc3nwcvUkAgpsnzbz00EWpVMwezpw+9/BcWVubfRUwplXgQyqwFpn2qcMweIt4q9qQOAOMVQUjd5YVRF/RFgeSJukWWYelmyh0f6bI1mOgvOMsVBu5zeQfe5XTuHOitVc0g1WuGoO42gyh6vF9AdA1FJ1gL/U1ANIMOOdacZfQ8QCKAe7fZDR5L8lSQFe1FGepgEUoGwLhQp7IODo9l0nYaSO/4Vtpn7n7QYFkcMAsL31aHEzDR1WciQ9KLpYHC0fpg0swrI7M0ps5qu/YuomiDOjd4ekZr4pIiUsp8ds0DJ3IEpwW7L+iss+6Yfx1cdn1h4/PrpgHSYOmJYOpjTtgmmH14AbZz/inqM/vj6OArHI9IRDuCuRZYH5LLhZjLDWdeG6j+41bcCVAWEO6zzqC5",
     "date":  "2026-11-03",
     "notes":  [
-                  "Nouveau mode de distribution : un seul fichier, \u0027SNOW Widget.cmd\u0027, a poser sur SharePoint. Il installe la derniere version, cree les raccourcis \u0027SNOW Widget\u0027 (Menu Demarrer et Bureau) et lance l\u0027application.",
-                  "Mises a jour signees : chaque version est desormais authentifiee par une signature de l\u0027editeur, verifiee avant toute installation. Le telechargement passe par GitHub, avec repli sur le dossier SharePoint.",
-                  "Securite renforcee : navigation limitee a ServiceNow et au SSO SNCF, outils de developpement desactives, exports Excel et CSV proteges contre les formules piegees, journal sans noms ni CP, noms avec apostrophe acceptes dans les recherches."
+                  "Journal allege : les derniers noms, CP et chemins de dossier personnels ont ete retires des diagnostics."
               ]
 }
