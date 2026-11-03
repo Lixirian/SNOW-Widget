@@ -1,11 +1,11 @@
 {
-    "version":  "1.5.62",
-    "zip":  "SNOW-Widget_version1.5.62.zip",
-    "sha256":  "97D023D56884F1699AE90EAF82CB505F0CF4EE301174FB7F96F994223AFA7DDF",
-    "sig":  "MIGKyf4h8pe4cggcv89Si/9sebwlKVT0ArMdbIbHivdBEZFqb73kxKGg+blXZweJVth831ZXAluKr5iybMytwUSbOXyRFC0fef+raAnZAGFPpAYjjxUGUvTHWb4q/sNAbC30diKDOLCTGtmmb9rx1NxyR+Vh6n3gBxzNnqcrsl1lkkyaCMGRoeDyMeL7Kxxby2xHla4oWerwKF3ZIlb0LcIiCn19cUzfeCij0dKvMln0LIF9JlIgGGKOWpwfooqahaoLYOc2EkH91OX91r5Mxwp4Fy/0TJHY0NQAa7TNkH/+93Zv3gPY/F/Mo2rKZCKWqlJ84apfpZiAMDW3n2qPsmpBDBNdK+ji7AZRBFmeYQGcrW0SavBaUrrj4HCUjWWextV4S7r6Bkso5yd52d4PhCs1kKoM6YTGyHBlbEe9GUq9Th/O3EZJLs9zJ2JR4ZzhVe4ym4z6HvUmtXNvreE256tMESGJnVwSsZiUhHJKNH1cVf7yOH89sus7TYd38Py8",
-    "msig":  "Hg3q3nKBSvYbEq6EpHwVi7c6hmvZAKNA9JihqRGLWRdK6HHNVhL2NG8zs2Ul88uttXzJzHNIYXNNspMFN3p03V+5UIhhpN2ii7F+1hgweTc3nwcvUkAgpsnzbz00EWpVMwezpw+9/BcWVubfRUwplXgQyqwFpn2qcMweIt4q9qQOAOMVQUjd5YVRF/RFgeSJukWWYelmyh0f6bI1mOgvOMsVBu5zeQfe5XTuHOitVc0g1WuGoO42gyh6vF9AdA1FJ1gL/U1ANIMOOdacZfQ8QCKAe7fZDR5L8lSQFe1FGepgEUoGwLhQp7IODo9l0nYaSO/4Vtpn7n7QYFkcMAsL31aHEzDR1WciQ9KLpYHC0fpg0swrI7M0ps5qu/YuomiDOjd4ekZr4pIiUsp8ds0DJ3IEpwW7L+iss+6Yfx1cdn1h4/PrpgHSYOmJYOpjTtgmmH14AbZz/inqM/vj6OArHI9IRDuCuRZYH5LLhZjLDWdeG6j+41bcCVAWEO6zzqC5",
+    "version":  "1.5.63",
+    "zip":  "SNOW-Widget_version1.5.63.zip",
+    "sha256":  "8F11812D0737554B38DBA977D65D67B86526CCC2EFD2B35B54D5ABB5A22FB8FF",
+    "sig":  "XZsJzTY8wTscPwlwybIaHEZFP/oX2j9ZVNI/hW2TgnaCiLIn5geMwUwkjYBSSHoWP423BnB3J1IM8YbNcFsqSZl69LCt6xnyyeqCj2dIPPsR430HTSDGX1114jur8D/GpnhcrnEMqraj/QFfOC9ZO0N28NoRq/611/P8ecNWcTAIfED3ZjeM8c4VWoQOI7iAa2vBfQe+cRQqA/UNZjG6U6ROlECtU5xQ6N3HmyUCKynzqY7t06AfFZQd1XXaGHzYNj0k3rZh4TQlF2qU3BYdaJMeXGt3IW+/CmXgbns02++vwKDArhGGdYUrQQFqZMS99WjBrKBzOuLntnBX7efiBkKCD5gAY4cgXgpeWCPMikoWgo8vqLDjaFbWEc5avB4drPR2nZ2DlPRW05NxyoUlTY3mSMvFB5Wh9GhXdDIoDiy6uxVPMiF/uAzyfMIAriCDdXM0bpJXqErJBlh1afxKhYD+ubqGNGKARgddnF+epV7HDLBoTk8UiKzFl5hvHU5L",
+    "msig":  "pH4HT67xFmYZX4hWEmoB/wzbkRMwqsX309WB4f+uJUbhPA2OPhqqc473S90+onkonzKjGSjYR58572xQd4O+LdGkdgtrYw2WqgAKEmYVYFxx17W3kwBXrnroRxsxGv8yFqMmc8z5d3bs27DQPFfMj58b/w45ggA1lCFVPkUPyjWugdAyRHa4mmrjIBg342yqVysQMWHlRIAHClGLfGGFCzkFMIZJqZKGe3neb/VEeQ3SGoz3nwjihxNmSGABAuo6kkjUpJCMN3/KRTeOnDCAgGRU/GbfGU25ULJO9GYCwfOktSqN73HGRuSgPuBDYTajSwaJl1MAVAL2rqxpt18Aiu3f5fc+QP1sJXnmzpo9ohSzMuerYO1D1G0o09igZ8Hq6mNQhfP69jBkYzFbtRFaGPs1UokE7oyHi9XmOf9F2PvGwgWhBHOFw2z2hTCG9wG9X21EH1FECxWQuxP8oUx9xBflYhpRsc5gKvezZObOkQgsYfJmplq6cDWUumQDucIk",
     "date":  "2026-11-03",
     "notes":  [
-                  "Journal allege : les derniers noms, CP et chemins de dossier personnels ont ete retires des diagnostics."
+                  "Lanceur \u0027SNOW Widget.cmd\u0027 : double-cliquer le fichier cree desormais toujours les raccourcis \u0027SNOW Widget\u0027 (Menu Demarrer et Bureau), y compris si l\u0027application etait deja installee, et met a niveau une version trop ancienne."
               ]
 }
